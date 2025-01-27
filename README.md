@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @squarewatermeln
+- 👋 Hi, I’m Harry
 - 👀 I’m interested in Rust, Web, Javascript, Scripting, Virtual Reality, and Low Level Programming.
 - 🌱 I’m currently learning Rust, and TypeScript
 - 🏫 Studying at the Univeristy of Southampton
-- 💞️ I’m looking to collaborate on some really cool VR project's my freind's and i are currently working on!
+- 💞️ Currently working on a knowledge transfer app (might be cool)
 - 📫 How to reach me, contact me via email: harrybullmandy@gmail.com
 
 <!---
